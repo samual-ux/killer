@@ -1,2 +1,3 @@
 # killer
-Highly power full tool
+
+install and enjoy
